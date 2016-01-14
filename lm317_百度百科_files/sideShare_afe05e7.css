@@ -1,0 +1,33 @@
+.side-share.bdsharebuttonbox {
+	background: rgb(255, 255, 255); border: 1px solid rgb(224, 224, 224); border-image: none; top: 205px; width: 45px; right: 0px; position: fixed; z-index: 999;
+}
+.side-share.bdsharebuttonbox a {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/sideShare/img/side-share_43d503e.png") no-repeat !important; margin: 0px 0px 11px; padding: 0px; width: 45px; height: 25px; display: block;
+}
+.side-share.bdsharebuttonbox .title {
+	height: 43px; text-align: center; color: rgb(153, 153, 153); line-height: 43px; font-size: 14px; border-bottom-color: rgb(234, 234, 234); border-bottom-width: 1px; border-bottom-style: solid; display: block;
+}
+.side-share.bdsharebuttonbox .bds_qzone {
+	background-position: 11px 3px !important; margin-top: 11px;
+}
+.side-share.bdsharebuttonbox .bds_qzone:hover {
+	background-position: -77px 2px !important;
+}
+.side-share.bdsharebuttonbox .bds_tsina {
+	background-position: 11px -99px !important;
+}
+.side-share.bdsharebuttonbox .bds_tsina:hover {
+	background-position: -77px -99px !important;
+}
+.side-share.bdsharebuttonbox .bds_tqq {
+	background-position: 14px -51px !important;
+}
+.side-share.bdsharebuttonbox .bds_tqq:hover {
+	background-position: -78px -52px !important;
+}
+.side-share.bdsharebuttonbox .bds_more {
+	background-position: 11px -148px !important; height: 25px; border-top-color: rgb(234, 234, 234); border-top-width: 1px; border-top-style: solid; display: block;
+}
+.side-share.bdsharebuttonbox .bds_more:hover {
+	background-position: -80px -148px !important;
+}

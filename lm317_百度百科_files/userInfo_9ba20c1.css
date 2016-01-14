@@ -1,0 +1,6 @@
+.lemmaWgt-searchHeader .user-info {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/img/tool-buttons_b8d5787.png") no-repeat -230px -171px; line-height: 43px; padding-left: 25px; font-size: 12px; font-weight: 700; float: right;
+}
+.lemmaWgt-searchHeader .user-info a.user-link {
+	color: rgb(102, 102, 102); text-decoration: none;
+}

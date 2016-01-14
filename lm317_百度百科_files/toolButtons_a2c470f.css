@@ -1,0 +1,33 @@
+.tool-buttons .button {
+	width: 68px; height: 31px; margin-left: 6px; float: left; display: block; cursor: pointer;
+}
+.tool-buttons .toolButtons-edit {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/img/tool-buttons_b8d5787.png") no-repeat 0px -124px;
+}
+.tool-buttons .toolButtons-edit:hover {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/img/tool-buttons_b8d5787.png") no-repeat 0px -169px;
+}
+.tool-buttons .toolButtons-collect {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/img/tool-buttons_b8d5787.png") no-repeat -71px -124px;
+}
+.tool-buttons .toolButtons-collect:hover {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/img/tool-buttons_b8d5787.png") no-repeat -71px -169px;
+}
+.tool-buttons .collected.toolButtons-collect {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/img/tool-buttons_b8d5787.png") no-repeat -7px -245px;
+}
+.tool-buttons .collected.toolButtons-collect:hover {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/img/tool-buttons_b8d5787.png") no-repeat -90px -248px;
+}
+.tool-buttons .toolButtons-vote {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/img/tool-buttons_b8d5787.png") no-repeat -144px -124px;
+}
+.tool-buttons .toolButtons-vote:hover {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/img/tool-buttons_b8d5787.png") no-repeat -144px -169px;
+}
+.tool-buttons .voted.toolButtons-vote {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/img/tool-buttons_b8d5787.png") no-repeat -99px -46px; width: 43px; color: rgb(153, 153, 153); line-height: 31px; padding-left: 25px;
+}
+.tool-buttons .voted.toolButtons-vote:hover {
+	background: url("http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/img/tool-buttons_b8d5787.png") no-repeat -182px -46px; font-size: 0px; content: "";
+}
